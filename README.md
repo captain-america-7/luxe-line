@@ -114,8 +114,7 @@ npm run lint
 ```
 luxe-line/
 ├── public/
-│   ├── images/              # Hero, gallery, and signature dish photography
-│   └── *.svg                # Static assets
+│   └── images/              # Hero, gallery, and signature dish photography
 ├── src/
 │   ├── app/
 │   │   ├── globals.css      # Tailwind v4 theme tokens + custom layers
