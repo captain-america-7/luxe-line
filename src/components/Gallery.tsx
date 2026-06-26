@@ -1,9 +1,8 @@
 "use client";
 
-import { motion } from "framer-motion";
 import Image from "next/image";
 import { useState } from "react";
-import { Maximize2, Search } from "lucide-react";
+import { Search } from "lucide-react";
 
 interface GalleryItem {
   id: string;

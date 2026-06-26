@@ -2,7 +2,7 @@
 
 import { useState } from "react";
 import { motion, AnimatePresence } from "framer-motion";
-import { Calendar, Clock, Users, Gift, CheckCircle, Sparkles } from "lucide-react";
+import { Calendar, Clock, Users, Gift, CheckCircle } from "lucide-react";
 
 export default function ReservationForm() {
   const [date, setDate] = useState("");

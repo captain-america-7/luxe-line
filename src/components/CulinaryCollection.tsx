@@ -1,9 +1,8 @@
 "use client";
 
-import { motion } from "framer-motion";
 import Image from "next/image";
-import { useState, useRef } from "react";
-import { Heart, Info, ChefHat, Sparkles } from "lucide-react";
+import { useState } from "react";
+import { Heart, ChefHat } from "lucide-react";
 
 interface Dish {
   id: string;

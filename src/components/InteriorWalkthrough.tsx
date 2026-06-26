@@ -3,7 +3,6 @@
 import { motion } from "framer-motion";
 import Image from "next/image";
 import { useEffect, useRef } from "react";
-import { Heart, Maximize, Play, Sparkles } from "lucide-react";
 
 export default function InteriorWalkthrough() {
   const scrollRef = useRef<HTMLDivElement | null>(null);
