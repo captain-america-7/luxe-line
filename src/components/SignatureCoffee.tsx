@@ -19,7 +19,7 @@ export default function SignatureCoffee() {
     {
       id: "golden-espresso",
       name: "Golden Espresso",
-      price: "$18",
+      price: "₹1,500",
       notes: ["Dark Cocoa", "Champagne Flakes", "Citrus Zest"],
       description: "A double shot of single-origin Ethiopian beans infused with micro-flakes of 24k edible champagne gold.",
       icon: <Sparkles className="w-5 h-5 text-gold" />,
@@ -28,7 +28,7 @@ export default function SignatureCoffee() {
     {
       id: "smoked-oak-latte",
       name: "Smoked Oak Latte",
-      price: "$22",
+      price: "₹1,800",
       notes: ["Maple Syrup", "Oak Smoke", "Walnut Nutty"],
       description: "Double extraction pulled over dark maple wood and cold smoked with oak flakes, served with velvet micro-foam.",
       icon: <Flame className="w-5 h-5 text-gold" />,
@@ -37,7 +37,7 @@ export default function SignatureCoffee() {
     {
       id: "matcha-olive-tonic",
       name: "Matcha Olive Tonic",
-      price: "$20",
+      price: "₹1,650",
       notes: ["Uji Matcha", "Tonic Botanical", "Olive Mist"],
       description: "Organic stone-ground ceremonial matcha floated over premium tonic water, misted with fresh olive blossom essence.",
       icon: <Droplets className="w-5 h-5 text-gold" />,
@@ -46,7 +46,7 @@ export default function SignatureCoffee() {
     {
       id: "velvet-cold-drip",
       name: "Velvet Cold Drip",
-      price: "$24",
+      price: "₹2,000",
       notes: ["Dark Berries", "Wild Honey", "Jasmine"],
       description: "24-hour slow drip extraction through organic mineral water, revealing delicate fruit esters and floral notes.",
       icon: <Coffee className="w-5 h-5 text-gold" />,
