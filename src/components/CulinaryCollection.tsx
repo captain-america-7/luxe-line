@@ -26,7 +26,7 @@ export default function CulinaryCollection({ favorites, onToggleFavorite }: Culi
     {
       id: "truffle-tagliolini",
       name: "Black Truffle Tagliolini",
-      price: "$45",
+      price: "₹3,750",
       image: "/images/dish_truffle.jpg",
       story: "A luxurious hand-cut pasta tossed in triple-churned Normandy butter, shaved Alba white truffle, and a dash of edible gold dust.",
       ingredients: ["Hand-cut Tagliolini", "Winter Truffle", "Aged Parmigiano", "Normandy Butter"],
@@ -37,7 +37,7 @@ export default function CulinaryCollection({ favorites, onToggleFavorite }: Culi
     {
       id: "pistachio-tart",
       name: "Glazed Pistachio Tart",
-      price: "$28",
+      price: "₹2,300",
       image: "/images/dish_pastry.jpg",
       story: "A delicate chocolate and almond shell filled with dense roasted Sicilian pistachio praline, raspberries, and white chocolate curls.",
       ingredients: ["Bronte Pistachios", "Raspberry Coulis", "Organic White Chocolate", "Crispy Sable"],
