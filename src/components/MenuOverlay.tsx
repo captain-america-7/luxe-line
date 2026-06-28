@@ -31,7 +31,7 @@ export default function MenuOverlay({ isOpen, onClose, favorites, onToggleFavori
     {
       id: "golden-espresso",
       name: "Golden Espresso",
-      price: "$18",
+      price: "₹1,500",
       category: "coffee",
       image: "/images/coffee_pour.jpg",
       description: "Ethiopian single-origin beans, pulled at 9.2 bars, infused with 24k edible champagne gold leaf.",
@@ -44,7 +44,7 @@ export default function MenuOverlay({ isOpen, onClose, favorites, onToggleFavori
     {
       id: "smoked-oak-latte",
       name: "Smoked Oak Latte",
-      price: "$22",
+      price: "₹1,800",
       category: "coffee",
       image: "/images/coffee_pour.jpg",
       description: "Espresso sweetened with organic maple wood extract, cold-smoked in wood chambers.",
@@ -57,7 +57,7 @@ export default function MenuOverlay({ isOpen, onClose, favorites, onToggleFavori
     {
       id: "pistachio-tart",
       name: "Glazed Pistachio Tart",
-      price: "$28",
+      price: "₹2,300",
       category: "pastries",
       image: "/images/dish_pastry.jpg",
       description: "Baked daily. Crispy chocolate base, Sicilian pistachio cream, fresh raspberry coulis glaze.",
@@ -70,7 +70,7 @@ export default function MenuOverlay({ isOpen, onClose, favorites, onToggleFavori
     {
       id: "truffle-tagliolini",
       name: "Black Truffle Tagliolini",
-      price: "$45",
+      price: "₹3,750",
       category: "culinary",
       image: "/images/dish_truffle.jpg",
       description: "Normandy butter-based pasta tossed with parmigiano, topped with thin Alba white truffle shaves.",
